@@ -1,0 +1,11 @@
+
+pumpkin - an Arduino-based firmware for an Interactive Halloween Pumpkin
+
+Detailed description of this project is located at: 
+ http://www.instructables.com/id/Interactive-Halloween-Pumpkin/
+ 
+Highlights of the project:
+1. Use of POWER_DOWN sleep mode and wakeup on external interrupt (motion detection)
+2. Interrupt-driven distance measurment using HC-SR04 sensor
+3. Interrupt-driven sound processing
+4. Extensive use of TaskScheduler advanced functionality
